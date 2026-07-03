@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..950;1,400..950&family=Outfit:wght@100..900&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  
+  /* Natural Tones Theme Color Palette mapping */
+  --color-gold-50: #fdfbf7;
+  --color-gold-100: #f9f4ee;
+  --color-gold-200: #e8dfd5;
+  --color-gold-300: #d4bfa7;
+  --color-gold-400: #c0a282;
+  --color-gold-500: #a67c52; /* Accent Tan */
+  --color-gold-600: #8e643f;
+  --color-gold-700: #754f30;
+  --color-gold-800: #5c3e25;
+  --color-gold-900: #3d2b1f; /* Deep Brown Text */
+  
+  --color-coffee-50: #fdfbf7;  /* Canvas Background */
+  --color-coffee-100: #f9f4ee; /* Soft Section Background */
+  --color-coffee-200: #e8dfd5; /* Border / Divider Color */
+  --color-coffee-300: #d4bfa7;
+  --color-coffee-400: #c0a282;
+  --color-coffee-500: #a67c52; /* Tan accent */
+  --color-coffee-600: #8e643f;
+  --color-coffee-700: #754f30;
+  --color-coffee-800: #5c3e25;
+  --color-coffee-900: #3d2b1f; /* Main dark brown text */
+  --color-coffee-950: #2a1d15; /* Dark background elements */
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-coffee-50);
+    color: var(--color-coffee-900);
+  }
+}

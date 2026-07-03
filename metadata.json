@@ -1,0 +1,6 @@
+{
+  "name": "Café Arabi",
+  "description": "Una landing page elegante para Café Arabi, con menú interactivo de cafés de especialidad, fotos inspiradoras y localización con Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
