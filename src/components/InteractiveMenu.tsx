@@ -450,7 +450,7 @@ export default function InteractiveMenu() {
                 )}
                 
                 <a
-                  href={`https://wa.me/525665407383?text=Hola,%20me%20gustaría%20ordenar%20un%20${encodeURIComponent(selectedItem.name)}`}
+                  href={`https://wa.me/525653882279?text=Hola,%20me%20gustaría%20ordenar%20un%20${encodeURIComponent(selectedItem.name)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full mt-4 py-3.5 bg-gold-500 hover:bg-gold-400 text-coffee-950 font-serif font-bold text-sm tracking-widest uppercase rounded-2xl transition-all hover:scale-[1.02] hover:shadow-lg active:scale-95 duration-300 flex items-center justify-center space-x-2"
