@@ -240,7 +240,7 @@ export default function BeanOrigins() {
                     </div>
 
                     <a
-                      href={`https://wa.me/525665407383?text=Hola,%20me%20interesaría%20comprar%20un%20kilo%20de%20café%20${encodeURIComponent(selectedBean.name)}`}
+                      href={`https://wa.me/525653882279?text=Hola,%20me%20interesaría%20comprar%20un%20kilo%20de%20café%20${encodeURIComponent(selectedBean.name)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="px-6 py-3 bg-coffee-900 hover:bg-coffee-850 text-gold-200 text-xs font-serif font-bold tracking-widest uppercase rounded-2xl transition-all shadow-md inline-flex items-center space-x-2 self-start sm:self-auto"
