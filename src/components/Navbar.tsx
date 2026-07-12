@@ -18,7 +18,7 @@ export default function Navbar() {
     { name: 'Inicio', href: '#inicio' },
     { name: 'Nuestra Esencia', href: '#esencia' },
     { name: 'Menú Interactivo', href: '#menu' },
-    { name: 'Contacto', href: 'https://wa.me/525665407383?text=hola%20me%20interesaria%20comprar%20cafe' },
+    { name: 'Contacto', href: 'https://wa.me/525653882279?text=hola%20me%20interesaria%20comprar%20cafe' },
     { name: 'Ubicación', href: '#ubicacion' },
   ];
 
