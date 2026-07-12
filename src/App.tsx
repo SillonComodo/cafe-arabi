@@ -77,7 +77,7 @@ export default function App() {
             className="flex gap-4 justify-center items-center"
           >
             <a
-              href="https://wa.me/525665407383?text=hola%20me%20interesaria%20comprar%20cafe"
+              href="https://wa.me/525653882279?text=hola%20me%20interesaria%20comprar%20cafe"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 bg-gold-500 hover:bg-gold-400 text-coffee-950 font-serif font-bold tracking-widest text-sm uppercase rounded-full transition-all hover:scale-105 hover:shadow-lg hover:shadow-gold-500/10 active:scale-95 duration-300 flex items-center space-x-2"
